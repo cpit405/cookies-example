@@ -1,0 +1,18 @@
+body.light {
+    background-color: white;
+    color: black;
+  }
+  body.dark {
+    background-color: black;
+    color: white;
+  }
+  header,
+  p {
+    padding: 20px;
+    text-align: center;
+  }
+  #theme-select {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+} 
